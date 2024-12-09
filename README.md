@@ -4,5 +4,6 @@
 - [ ] [Linux From Scratch](https://www.linuxfromscratch.org/)
 - [ ] [sed](https://man.archlinux.org/man/sed.1.en)
 
-- [ ] [alpm](https://gitlab.archlinux.org/archlinux/alpm/alpm)
-- [ ] [gluebuddy](https://gitlab.archlinux.org/archlinux/gluebuddy)
+- [ ] [Arch Linux / alpm](https://gitlab.archlinux.org/archlinux/alpm/alpm)
+- [ ] [Arch Linux / gluebuddy](https://gitlab.archlinux.org/archlinux/gluebuddy)
+- [ ] [Arch Linux / infrastructure](https://gitlab.archlinux.org/archlinux/infrastructure)
