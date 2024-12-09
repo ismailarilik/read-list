@@ -5,3 +5,4 @@
 - [ ] [sed](https://man.archlinux.org/man/sed.1.en)
 
 - [ ] [alpm](https://gitlab.archlinux.org/archlinux/alpm/alpm)
+- [ ] [gluebuddy](https://gitlab.archlinux.org/archlinux/gluebuddy)
